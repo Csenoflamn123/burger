@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.burger {
+    margin: 15px;
+    padding: 5px;
+}
+.menu {
+    transition-duration: 1s;
+    display: none;
+    position: fixed;
+    left: -30%;
+    background-color: #FF0000;
+    width: 30%;
+    height: 100vh;
+}
